@@ -1,10 +1,23 @@
 # Changelog
 
+## [v1.0.0](https://github.com/rero/rero-invenio-base/tree/v1.0.0) (2026-05-06)
+
+[Full Changelog](https://github.com/rero/rero-invenio-base/compare/v0.3.3...v1.0.0)
+
+**Breaking changes:**
+
+* chore: update dependencies and Python 3.14 (by @PascalRepond)
+  * Dropped Python <3.10 support
+
+**Fixes:**
+
+* fix(es): error handling in `update_mapping` (by @rerowep)
+
 ## [v0.3.3](https://github.com/rero/rero-invenio-base/tree/v0.3.3) (2025-08-05)
 
 [Full Changelog](https://github.com/rero/rero-invenio-base/compare/v0.3.2...v0.3.3)
 
-- chore: use uv_publish as a build system (by @PascalRepond)
+* chore: use uv_publish as a build system (by @PascalRepond)
 
 ## [v0.3.2](https://github.com/rero/rero-invenio-base/tree/v0.3.2) (2025-07-31)
 
